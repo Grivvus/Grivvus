@@ -1,9 +1,9 @@
 # Grivvus
-![Divider]
+![Divider](this should rendr an image)
 smth about yourself
-![Divider]
+<br>
 tech stack
-![Divider]
+<br>
 some stats
-![Divider]
+<br>
 contacts
