@@ -4,7 +4,7 @@
 someday 
 <br>
 ## My tech skills
-[![Langs](https://skillicons.dev/icons?i=python,fastapi,linux,bash,postgres,docker,c&theme=light)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=python,fastapi,postgres,linux,bash,docker,c&theme=light)](https://skillicons.dev)
 <br>
 ## there's will be my gh stats
 <br>
