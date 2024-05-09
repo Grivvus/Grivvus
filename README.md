@@ -1,10 +1,11 @@
 # Grivvus
 ![Divider](this should rendr an image)
-smth about yourself
+## whoami
+someday 
 <br>
 ## My tech skills
-[![Langs](https://skillicons.dev/icons?i=python,fastapi,git,github,postgres,docker,linux,neovim)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=python,bash,sql,c,fastapi,git,github,postgres,docker,linux,neovim)](https://skillicons.dev)
 <br>
-some stats
+## there's will be my gh stats
 <br>
 contacts
