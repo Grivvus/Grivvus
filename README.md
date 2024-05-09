@@ -6,5 +6,5 @@ someday I'll create something that I wouldn't be ashamed to write here
 ## there's will be my gh stats
 ##  my contacts
 <a href="t.me/grivvus">
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]
 <a href="mailto:kruchik.a04@gmail.com">
