@@ -3,7 +3,7 @@
 someday I'll create something that I wouldn't be ashamed to write here
 ## My tech skills
 [![Langs](https://skillicons.dev/icons?i=python,fastapi,postgres,linux,bash,docker,c&theme=light)](https://skillicons.dev)
-## there's will be my gh stats
+## some gh stats
 ![](https://raw.githubusercontent.com/Grivvus/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Grivvus/gh-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Grivvus/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
