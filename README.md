@@ -1,6 +1,6 @@
 # Grivvus
 ## whoami
-someday I'll create something that I wouldn't be ashamed to write here
+3-d year student of Saratov State Technical University in applied informatics. Interested in backend-development, gamedev and everething related to Linux.
 ## My tech skills
 [![Langs](https://skillicons.dev/icons?i=python,fastapi,postgres,linux,bash,docker,c&theme=light)](https://skillicons.dev)
 ## some gh stats
